@@ -3,7 +3,7 @@
 <ul type="unstyled">
     <li>
         <a href="https://gouldju1.github.io/gouldju1/posts/sample_post">
-        TITLE
+        TITLES
         </a>
     </li>
     <br>

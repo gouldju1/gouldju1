@@ -10,34 +10,10 @@
     <br>
     -->
     <li>
-        <a href="https://gouldju1.github.io/gouldju1/posts/sample_post">
-        TITLES
+        <a href="https://gouldju1.github.io/gouldju1/posts/vogelweide">
+        Translating Vogelweide’s Ir Sult Sprechen Willekomen
         </a>
     </li>
     <br>
-    <li>
-        <a href="https://gouldju1.github.io/gouldju1/posts/sample_post">
-        TITLEilAJKSGD
-        </a>
-    </li>
     <br>
-    <li>
-        <a href="https://gouldju1.github.io/gouldju1/posts/sample_post">
-        TITLE
-        </a>
-    </li>
-    <br>
-    <li>
-        <a href="https://gouldju1.github.io/gouldju1/posts/sample_post">
-        TITLE
-        </a>
-    </li>
-    <br>
-    <li>
-        <a href="https://gouldju1.github.io/gouldju1/posts/sample_post">
-        TITLE
-        </a>
-    </li>
-    <br>
-
 </ul>

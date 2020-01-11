@@ -4,7 +4,7 @@
  <table cellspacing="0" cellpadding="0" bgcolor="#fbfaf7">
   <tr>
     <td style="text-align: center">Blog Title</td>
-    <td style="text-align: center"><a href="https://gouldju1.github.io/gouldju1/posts/sample_post">Image with link</td>
+    <td style="text-align: center"><a href="https://gouldju1.github.io/gouldju1/posts/sample_post"></a>Image with link</td>
   </tr>
   <tr>
     <td style="text-align: center">Blog Title</td>

@@ -28,21 +28,133 @@ Throughout Ir Sult Sprechen Willekomen, Vogelweide uses Germanic women as a meta
 <br><br>
 
 
-<ul style="width:50%; float:left;list-style-type:none">
-    <li>1</li>
-    <li>2</li>
+<div style="float: left; width: 50%;">
+<ul style="list-style-type:none">
+<!-- OLD GERMAN -->
+<li>I.</li>
+<li>Ir sult sprechen willekomen:</li>
+<li>der iu mære bringet, daz bin ich.</li>
+<li>allez, daz ir habt vernomen,</li>
+<li>daz ist gar ein wint: ir frâget mich.</li>
+<li>ich wil aber miete:</li>
+<li>wirt mîn lôn iht guot,</li>
+<li>ich gesage iu lîhte, daz iu sanfte tuot.</li>
+<li>seht, waz man mir êren biete.</li>
+<br>
+<li>II.</li>
+<li>Ich wil tiuschen frouwen sagen</li>
+<li>solhiu mære, daz si deste baz</li>
+<li>al der werlte suln behagen:</li>
+<li>âne grôze miete tuon ich daz.</li>
+<li>waz wold ich ze lône?</li>
+<li>si sint mir ze hêr:</li>
+<li>sô bin ich gefüege und bite si nihtes mêr,</li>
+<li>wan daz si mich grüezen schône.</li>
+<br>
+<li>III.</li>
+<li>Ich hân lande vil gesehen</li>
+<li>unde nam der besten gerne war:</li>
+<li>übel müeze mir geschehen,</li>
+<li>kunde ich ie mîn herze bringen dar,</li>
+<li>daz im wol gevallen</li>
+<li>wolde fremeder site.</li>
+<li>nû waz hulfe mich, ob ich unrehte strite?</li>
+<li>tiuschiu zuht gât vor in allen.</li>
+<br>
+<li>IV.</li>
+<li>Von der Elbe unz an den Rîn</li>
+<li>und her wider unz an Ungerlant</li>
+<li>mugen wol die besten sîn,</li>
+<li>die ich in der werlte hân erkant.</li>
+<li>kan ich rehte schouwen</li>
+<li>guot gelâz unt lîp,</li>
+<li>sem mir got, sô swüere ich wol, daz hie diu wîp</li>
+<li>bezzer sint danne ander frouwen.</li>
+<br>
+<li>V.</li>
+<li>Tiusche man sint wol gezogen,</li>
+<li>rehte als engel sint diu wîp getân.</li>
+<li>swer si schildet, derst betrogen:</li>
+<li>ich enkan sîn anders niht verstân.</li>
+<li>tugent und reine minne,</li>
+<li>swer die suochen wil,</li>
+<li>der sol komen in unser lant: da ist wünne vil:</li>
+<li>lange müeze ich leben dar inne!</li>
+<br>
+<li>VI.</li>
+<li>Der ich vil gedienet hân</li>
+<li>und iemer mêre gerne dienen wil,</li>
+<li>diust von mir vil unerlân:</li>
+<li>iedoch sô tuot si leides mir sô vil.</li>
+<li>si kan mir versêren</li>
+<li>herze und den muot.</li>
+<li>nû vergebez ir got, dazs an mir missetuot.</li>
+<li>her nâch mac si sichs bekêren.</li>
 </ul>
+</div>
 
-<ul style="width:50%; float:left;list-style-type:none">
-    <li>3</li>
-    <li>4</li>
+<div style="float: right; width: 50%;">
+<ul style="list-style-type:none">
+<!-- NEW GERMAN -->
+<li>I.</li>
+<li>Ihr sollt sprechen willkommen,</li>
+<li>weil bringe ich ihr Nachricht.</li>
+<li>Alles, das ihr gehören,</li>
+<li>das ist nichts: ihr fragt mich.</li>
+<li>Ich will das Entgelt,</li>
+<li>wenn der Lohn gut ist,</li>
+<li>ich sagte ihr, was ihr gemütlich findet.</li>
+<li>Seht ihr, was man mir anbietet.</li>
+<br>
+<li>II.</li>
+<li>Ich werde nach der Damen Nachrichten bringen,</li>
+<li>diese Nachricht wird sie für die Welt attraktiver machen,</li>
+<li>und ich will nicht viel möchten.</li>
+<li>Was sollte ich an</li>
+<li>Lohn von ihnen wollen?</li>
+<li>Sie sind zu groß für mich.</li>
+<li>So bin ich höflich und frage nach nichts,</li>
+<li>als ich bitte Sie, dass sie mich begrüßen.</li>
+<br>
+<li>III.
+<li>Ich bin in viele Länder gereist</li>
+<li>und sah die Allerbesten.</li>
+<li>Aber wehe ist ich</li>
+<li>wenn ich mein Herz jemals überzeugen kann</li>
+<li>fremd genießen</li>
+<li>Zoll.</li>
+<li>Was hätte ich, wenn ich die Wahrheit nicht sage?</li>
+<li>Deutsche Zucht ist besser als alle anderen.</li>
+<br>
+<li>IV.</li>
+<li>Von der Elbe bis zum Rhein</li>
+<li>und wieder nach Ungarn</li>
+<li>sind wahrscheinlich die besten,</li>
+<li>den ich jemals in der ganzen Welt getroffen habe.</li>
+<li>Wenn ich das verstehe,</li>
+<li>gutes Benehmen und gutes Aussehen,</li>
+<li>mit Gott, dann würde ich schwören, dass hier die Frauen</li>
+<li>sind besser als irgendwo sonst die Damen.</li>
+<br>
+<li>V.</li>
+<li>Deutsche Männer sind gut aufgenommen,</li>
+<li>und die Frauen sind wie die Engel.</li>
+<li>Wenn man sie beleidigt, lügt er sich selbst;</li>
+<li>Ich kann es nicht verstehen.</li>
+<li>Wenn jemand Tugend und Liebe</li>
+<li>suchen will,</li>
+<li>Er soll in unser Land kommen, da ist große Freude.</li>
+<li>Lang möge ich in ihm leben!</li>
+<br>
+<li>VI.</li>
+<li>Die, die ich lange gedient habe</li>
+<li>und die ich immer gerne diene,</li>
+<li>Ich gebe nicht auf.</li>
+<li>Aber sie leidet so sehr.</li>
+<li>Sie tut mir weh</li>
+<li>in meinem Herzen und in meinem Sinn.</li>
+<li>Gott wird ihr ihre Sünde vergeben.</li>
+<li>Vielleicht wird sie sich noch bekehren.</li>
+<br>
 </ul>
-
-
-
-
-
-
-
-
-
+</div>

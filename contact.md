@@ -4,7 +4,7 @@
 Use the form below to shoot me a note!
 <br><br>
 
-<form action="mailto:gouldju1@gmail.com">
+<form action="mailto:gouldju1@gmail.com" method="get" enctype="text/plain">
 <table>
     <tr>
         <td align="right">First Name:</td>

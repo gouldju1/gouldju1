@@ -50,7 +50,7 @@ Throughout Ir Sult Sprechen Willekomen, Vogelweide uses Germanic women as a meta
 <li>si sint mir ze hêr:</li>
 <li>sô bin ich gefüege und bite si nihtes mêr,</li>
 <li>wan daz si mich grüezen schône.</li>
-<br>
+<br><br>
 <li>III.</li>
 <li>Ich hân lande vil gesehen</li>
 <li>unde nam der besten gerne war:</li>
@@ -70,7 +70,7 @@ Throughout Ir Sult Sprechen Willekomen, Vogelweide uses Germanic women as a meta
 <li>guot gelâz unt lîp,</li>
 <li>sem mir got, sô swüere ich wol, daz hie diu wîp</li>
 <li>bezzer sint danne ander frouwen.</li>
-<br>
+<br><br>
 <li>V.</li>
 <li>Tiusche man sint wol gezogen,</li>
 <li>rehte als engel sint diu wîp getân.</li>

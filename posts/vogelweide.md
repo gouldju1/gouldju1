@@ -153,5 +153,3 @@ Throughout Ir Sult Sprechen Willekomen, Vogelweide uses Germanic women as a meta
         <li>in meinem Herzen und in meinem Sinn.</li>
         <li>Gott wird ihr ihre Sünde vergeben.</li>
         <li>Vielleicht wird sie sich noch bekehren.</li>
-    </ul>
-</div>

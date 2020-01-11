@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/gouldju1/gouldju1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gouldju1/gouldju1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+layout: page
+title: Justin A. Gould
+tagline: ML/AI Scientist
+header: About
+---
+<img class="img-left" align="left" src="/images/gould.png">
+<h3>About</h3> 
+<br>
+Howdy! I am an <a href="https://www.linkedin.com/in/gouldju1/">ML/AI Scientist</a> working and conducting research primarily in the Natural Language Processing domain at <a href="https://corporate.ford.com/company.html">Ford Motor Company</a>. Specifically, I work on Question & Answering tasks, as well as IR (Information Retrieval) and NL2SQL (Natural Language to SQL). Outside of NLP, however, I have experience applying Machine Learning to ADAS (Advanced Driver-Assistance System) and connected vehicle data, contributing to high-performance geospatial analysis. 
+<br><br>
+I hold two degrees from <a href="http://www.msu.edu">Michigan State University</a>. My undergraduate work granted me a <a href="https://english.msu.edu/about/">B.A. in English Literature</a>, with Honors, where I completed my thesis on translating Walther von der Vogelweide’s <i><a href="http://www.luxautumnalis.de/walther-von-der-vogelweide-ir-sult-sprechen-willekomen/">Ir Sult Sprechen Willekomen</a></i> to New High German, and analyzing the poem's extremist natioanlism through its violent language and metaphor. In 2018, I graduated from with an <a href="https://broad.msu.edu/masters/business-analytics/">M.S. in Business Analytics</a>, where I completed a variety of coursework in Statistics, Machine Learning, Optimization, Database Management, and Corporate Strategy. A few of my many projects durng my Master's can be found on my <a href="https://github.com/gouldju1">GitHub</a>.
+<br><br>
+In my free time, I enjoy reading late 16th-century-early 19th-century literature (I know that's shocking, given my undergraduate work...), learning about digital ethics and akgorithmic bias/disparity, classical music, biking, and brewing kombucha.
+<br><br>
+This site not only functions a portal to my research and work on Natural Language Processing, but also serves as a place for me to showcase my interests.
+<br>

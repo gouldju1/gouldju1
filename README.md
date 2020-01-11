@@ -4,8 +4,8 @@ title: Justin A. Gould
 tagline: ML/AI Scientist
 header: About
 ---
-<img class="img-left" align="left" src="/images/gould.png">
-<h3>About</h3> 
+<img class="img-left" align="left" src="./images/gould.jpg" height="100" width="">
+<h3>About</h3>
 <br>
 Howdy! I am an <a href="https://www.linkedin.com/in/gouldju1/">ML/AI Scientist</a> working and conducting research primarily in the Natural Language Processing domain at <a href="https://corporate.ford.com/company.html">Ford Motor Company</a>. Specifically, I work on Question & Answering tasks, as well as IR (Information Retrieval) and NL2SQL (Natural Language to SQL). Outside of NLP, however, I have experience applying Machine Learning to ADAS (Advanced Driver-Assistance System) and connected vehicle data, contributing to high-performance geospatial analysis. 
 <br><br>

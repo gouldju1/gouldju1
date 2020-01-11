@@ -1,9 +1,3 @@
----
-layout: page
-title: Justin A. Gould
-tagline: ML/AI Scientist
-header: About
----
 <img class="img-left" align="left" src="./images/gould.jpg" height="100" width="">
 <h3>About</h3>
 <br>

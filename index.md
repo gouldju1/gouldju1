@@ -16,6 +16,7 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+<title>Justin Gould</title>
 </head>
 
 <p center><a href="https://gouldju1.github.io/gouldju1/">Home</a> | <a href="https://gouldju1.github.io/gouldju1/blogs">Non-Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/tech_blogs">Technical Blog Posts</a></p>

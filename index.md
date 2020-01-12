@@ -1,3 +1,4 @@
+<head>
 <link rel="apple-touch-icon" sizes="57x57" href="./images/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="./images/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="./images/apple-icon-72x72.png">
@@ -15,6 +16,7 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+</head>
 
 <p center><a href="https://gouldju1.github.io/gouldju1/">Home</a> | <a href="https://gouldju1.github.io/gouldju1/blogs">Non-Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/tech_blogs">Technical Blog Posts</a></p>
 <img class="img-left" align="left" src="./images/gould.jpg" height="100" width="">

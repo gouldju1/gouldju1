@@ -19,7 +19,7 @@
 <title>Non-Technical Blogs</title>
 </head>
 
-<p center><a href="https://gouldju1.github.io/gouldju1/">Home</a> | <a href="https://gouldju1.github.io/gouldju1/pages/blogs">Non-Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/pages/tech_blogs">Technical Blog Posts</a></p>
+<p center><a href="https://gouldju1.github.io/gouldju1/">Home</a> | <a href="https://gouldju1.github.io/gouldju1/pages/blogs">Non-Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/pages/tech_blogs">Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/pages/reading_list">Reading List</a></p>
 <h3>Non-Technical Blog Posts</h3>
 <ul style="list-style-type:none">
    <!--

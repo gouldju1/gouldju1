@@ -19,7 +19,7 @@
 <title>Translating Vogelweide’s Ir Sult Sprechen Willekomen</title>
 </head>
 
-<p center><a href="https://gouldju1.github.io/gouldju1/">Home</a> | <a href="https://gouldju1.github.io/gouldju1/pages/blogs">Non-Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/pages/tech_blogs">Technical Blog Posts</a></p>
+<p center><a href="https://gouldju1.github.io/gouldju1/">Home</a> | <a href="https://gouldju1.github.io/gouldju1/pages/blogs">Non-Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/pages/tech_blogs">Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/pages/reading_list">Reading List</a></p>
 <h3>Translating Vogelweide’s Ir Sult Sprechen Willekomen</h3>
 <br>
 11 January 2020

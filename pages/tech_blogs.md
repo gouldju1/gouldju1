@@ -16,11 +16,11 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-<title>Non-Technical Blogs</title>
+<title>Technical Blogs</title>
 </head>
 
-<p center><a href="https://gouldju1.github.io/gouldju1/">Home</a> | <a href="https://gouldju1.github.io/gouldju1/blogs">Non-Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/tech_blogs">Technical Blog Posts</a></p>
-<h3>Non-Technical Blog Posts</h3>
+<p center><a href="https://gouldju1.github.io/gouldju1/">Home</a> | <a href="https://gouldju1.github.io/gouldju1/pages/blogs">Non-Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/pages/tech_blogs">Technical Blog Posts</a></p>
+<h3>Technical Blog Posts</h3>
 <ul style="list-style-type:none">
    <!--
     <li>
@@ -30,11 +30,6 @@
     </li>
     <br>
     -->
-    <li>
-        <a href="https://gouldju1.github.io/gouldju1/posts/vogelweide">
-        Translating Vogelweide’s Ir Sult Sprechen Willekomen
-        </a>
-    </li>
     <br>
-    <br>
+
 </ul>

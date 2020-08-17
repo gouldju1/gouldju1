@@ -19,7 +19,7 @@
 <title>Justin Gould</title>
 </head>
 
-<p center><a href="https://gouldju1.github.io/gouldju1/">Home</a> | <a href="https://gouldju1.github.io/gouldju1/pages/blogs">Non-Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/pages/tech_blogs">Technical Blog Posts</a></p>
+<p center><a href="https://gouldju1.github.io/gouldju1/">Home</a> | <a href="https://gouldju1.github.io/gouldju1/blogs">Non-Technical Blog Posts</a> | <a href="https://gouldju1.github.io/gouldju1/tech_blogs">Technical Blog Posts</a></p>
 <img class="img-left" align="left" src="./images/gould.jpg" height="100" width="">
 <h3>Welcome!</h3>
 <br><br><br>

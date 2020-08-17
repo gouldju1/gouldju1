@@ -31,7 +31,7 @@
     <br>
     -->
     <li>
-        <a href="https://gouldju1.github.io/gouldju1/posts/vogelweide">
+        <a href="https://gouldju1.github.io/gouldju1/posts/nontech/vogelweide">
         Translating Vogelweide’s Ir Sult Sprechen Willekomen
         </a>
     </li>

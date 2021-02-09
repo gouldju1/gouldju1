@@ -2,122 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<h3>Welcome!</h3>
 
-[Link to another page](./another-page.html).
+<br><br><br>
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+I am a <a target="_blank" rel="noopener noreferrer"  href="https://www.linkedin.com/in/gouldju1/">Senior Data Scientist</a> working within <a target="_blank" rel="noopener noreferrer"  href="https://datamine.purdue.edu/">the Data mine</a> at <a target="_blank" rel="noopener noreferrer"  href="https://www.purdue.edu/">Purdue University</a>. My primary role is to provide technical advising to our Corporate Partnerships program-both as an advisor to students paired with corporate projects and working with fellow staff and faculty colleagues to provide analytics consulting for Fortune 500 companies. In addition to technical advising, I <a target="_blank" rel="noopener noreferrer"  href="https://github.com/gouldju1/tdm-foundations-of-geospatial-analytics">offer coursework</a> in Geospatial Analytics and <a target="_blank" rel="noopener noreferrer"  href="https://arxiv.org/search/cs?searchtype=author&query=Gould%2C+J">conduct research</a> in energy-efficient distributed computing.
 
 
-### Definition lists can be used with HTML syntax.
+Prior to joining Purdue University, I worked within Natural Language Processing (Natural Language to SQL and Question & Answering) and Connected & Autonomous Vehicle Analytics at <a target="_blank" rel="noopener noreferrer"  href="https://www.purdue.edu/">Ford Motor Company</a>. In the final six months of my time at Ford, I was a Product Owner of a suite of NLP tools and models, as well as a connected vehicle data discovery tool-both of which I helped bring into production.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<br><br>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+I hold two degrees from <a target="_blank" rel="noopener noreferrer"  href="http://www.msu.edu">Michigan State University</a>. My undergraduate work granted me a <a target="_blank" rel="noopener noreferrer"  href="https://english.msu.edu/about/">B.A. in English Literature</a>, with Honors. In 2018, I graduated with an <a target="_blank" rel="noopener noreferrer"  href="https://broad.msu.edu/masters/business-analytics/">M.S. in Business Analytics</a>.
 
-```
-The final element.
-```
+<br><br>
+
+In my <a target="_blank" rel="noopener noreferrer"  href="https://broad.msu.edu/masters/business-analytics/">free time</a>, I enjoy reading, traveling, cooking and baking, biking, classical music, hiking, and rock/ice climbing.

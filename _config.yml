@@ -1,9 +1,9 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Justin A. Gould
+description: Senior Data Scientist, Purdue University
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
   publication_url: INSERT
-  cv_url: INSERT
+  cv_url: https://raw.githubusercontent.com/gouldju1/gouldju1/master/CV/gould_cv.pdf
   repository_url: https://github.com/gouldju1/gouldju1

@@ -12,12 +12,12 @@ _Framework for Understanding and Mitigating Data Center Environmental Footprint_
 In coördination with Research Computing at Purdue University, our team's goal is to build a framework for universities to perform an audit of data center emissions, water and electrical usage, and operations costs to unerstand and reduce the environmental implications of running high-performance computing jobs, while contributing to university-driven Sustainability goals and standards.
 
 **08/2020 - 05/2021**\
-**Purdue University \& Ford Motor Company**\
+**Purdue University & Ford Motor Company**\
 _`WHERE` Clause Support for Natural Language Interface to Database Algorithms_\
 This research project is an alliance between Ford Motor Company and Purdue University’s Data Mine. Current approaches to the Natural Language Interface to Database (NLIDB) problem (an extension of Natural Language to SQL for relational databases) ignores WHERE clause prediction, making them unusable in industry. We aim to close this gap by developing a WHERE clause predictor to implement in models on Yale's Spider (Semantic Parsing and Text-to-SQL Challenge) task.
 
 **08/2019 - 05/2021**\
-**Purdue University \& Ford Motor Company**\
+**Purdue University & Ford Motor Company**\
 _In-Vehicle Multi-Turn Open Domain Question-Answer Systems_\
 This research project is an alliance between Ford Motor Company and Purdue University’s Data Mine. We created an in-vehicle Question-Answer system utilizing the 2020MY Lincoln Aviator manual. Given a question about a user's vehicle, which can be answered from the manual, the system searches the manual and returns the most probable answer, via ALBERT for text-retrieval and BERT- based Natural Language to SQL (NL2SQL) model for answers stored in tables.
 

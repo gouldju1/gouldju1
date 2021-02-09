@@ -7,7 +7,7 @@ title: Justin A. Gould
 
 <br>
 
-<img class="img-left" src="./images/gould.jpg" height="150" width="">
+<img class="img-left" src="./images/gould.jpg" height="250" width="">
 
 Conact Information:
  - <a target="_blank" rel="noopener noreferrer"  href="mailto:gould29@purdue.edu">gould29@purdue.edu</a>

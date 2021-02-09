@@ -11,9 +11,10 @@ title: Justin A. Gould
 
 Conact Information:
  - <a target="_blank" rel="noopener noreferrer"  href="mailto:gould29@purdue.edu">gould29@purdue.edu</a>
- - Hillenbrand Hall
- - 1301 Third Street, West Lafayette, IN 47906-4206
+ - Hillenbrand Hall: 1301 Third Street, West Lafayette, IN 47906-4206
  - <a target="_blank" rel="noopener noreferrer"  href="https://calendly.com/gould29">Schedule a meeting with me via Calendly</a>
+ - <a target="_blank" rel="noopener noreferrer"  href="https://github.com/gouldju1">GitHub</a>
+ - <a target="_blank" rel="noopener noreferrer"  href="https://www.linkedin.com/in/gouldju1/">LinkedIn</a>
 
 <br>
 
@@ -21,7 +22,7 @@ I am a <a target="_blank" rel="noopener noreferrer"  href="https://www.linkedin.
 
 <br>
 
-Prior to joining Purdue University, I worked within Natural Language Processing (Natural Language to SQL and Question & Answering) and Connected & Autonomous Vehicle Analytics at <a target="_blank" rel="noopener noreferrer"  href="https://www.ford.com/">Ford Motor Company</a>. In the final six months of my time at Ford, I was a Product Owner of a suite of NLP tools and models, as well as a connected vehicle data discovery tool-both of which I helped bring into production.
+Prior to joining Purdue University, I worked within Natural Language Processing (Natural Language to SQL and Question & Answering) and Connected & Autonomous Vehicle Analytics at <a target="_blank" rel="noopener noreferrer"  href="https://corporate.ford.com/home.html?gnav=footer-aboutford">Ford Motor Company</a>. In the final six months of my time at Ford, I was a Product Owner of a suite of NLP tools and models, as well as a connected vehicle data discovery tool-both of which I helped bring into production.
 
 <br>
 

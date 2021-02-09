@@ -3,6 +3,8 @@ description: Senior Data Scientist, Purdue University
 show_downloads: true
 theme: jekyll-theme-cayman
 github:
-  publication_url: INSERT
+  publication_url: https://gouldju1.github.io/gouldju1/pages/publication.html
+  research_url: https://gouldju1.github.io/gouldju1/pages/research.html
   cv_url: https://raw.githubusercontent.com/gouldju1/gouldju1/master/CV/gould_cv.pdf
   repository_url: https://github.com/gouldju1/gouldju1
+  reading_url: https://gouldju1.github.io/gouldju1/pages/reading-list.html

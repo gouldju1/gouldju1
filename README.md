@@ -1,1 +1,1 @@
-Author: Justin A. Gould
+Check out my site at: https://gouldju1.github.io/gouldju1/

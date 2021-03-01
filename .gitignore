@@ -9,4 +9,4 @@ Gemfile.lock
 *.out
 *.gz
 *.tex
-*.DS_STORE
+.DS_Store

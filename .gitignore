@@ -10,4 +10,5 @@ Gemfile.lock
 *.gz
 *.tex
 .DS_Store
-.DS_Store
+/.DS_Store
+*.DS_Store

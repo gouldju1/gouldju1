@@ -1,1 +1,1 @@
-Check out my site at: https://gouldju1.github.io/gouldju1/
+

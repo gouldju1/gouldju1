@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Projects
-description: This is a listing of sample projects
+description: A few AI and engineering projects I have led
 ---
 
 ## Selected Projects
 
-Below are sample AI and engineering projects I have led.
 
 | **Industry** | **Business Problem** | **Technical Challenge** | **Scope** | **Outcome** |
 |---|---|---|---|---|

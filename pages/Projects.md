@@ -26,4 +26,4 @@ Below are sample AI and engineering projects I have led.
 
 
 
-[back](./)
+[back](../)

@@ -7,27 +7,24 @@ title: Justin A. Gould
 
 <br>
 
-<img class="img-left" src="./images/gould.jpg" height="250" width="">
+<img class="img-left" src="./images/Ghibli.png" height="250" width="">
 
-Conact Information:
- - <a target="_blank" rel="noopener noreferrer"  href="mailto:gould29@purdue.edu">gould29@purdue.edu</a>
- - Hillenbrand Hall: 1301 Third Street, West Lafayette, IN 47906-4206
- - <a target="_blank" rel="noopener noreferrer"  href="https://calendly.com/gould29">Schedule a meeting with me via Calendly</a>
+## Conact Information:
+ - <a target="_blank" rel="noopener noreferrer"  href="mailto:gouldju1@gmail.com">gouldju1@gmail.com</a>
+ - Indianapolis, IN
+ - <a target="_blank" rel="noopener noreferrer"  href="https://calendly.com/gouldju1">Schedule a meeting with me via Calendly</a>
  - <a target="_blank" rel="noopener noreferrer"  href="https://github.com/gouldju1">GitHub</a>
  - <a target="_blank" rel="noopener noreferrer"  href="https://www.linkedin.com/in/gouldju1/">LinkedIn</a>
 
 <br>
 
-I am a <a target="_blank" rel="noopener noreferrer"  href="https://www.linkedin.com/in/gouldju1/">Senior Data Scientist</a> working within <a target="_blank" rel="noopener noreferrer"  href="https://datamine.purdue.edu/">the Data mine</a> at <a target="_blank" rel="noopener noreferrer"  href="https://www.purdue.edu/">Purdue University</a>. My primary role is to provide technical advising to our <a target="_blank" rel="noopener noreferrer"  href="https://datamine.purdue.edu/corporate/">Corporate Partnerships</a> program--both as an advisor to students paired with corporate projects, and working with fellow staff and faculty colleagues to provide analytics consulting for Fortune 500 companies. In addition to technical advising, I <a target="_blank" rel="noopener noreferrer"  href="https://github.com/gouldju1/honr-foundations-of-geospatial-analytics">offer coursework</a> in Geospatial Analytics and <a target="_blank" rel="noopener noreferrer"  href="https://arxiv.org/search/cs?searchtype=author&query=Gould%2C+J">conduct research</a> in energy-efficient distributed computing.
+## Who am I?
+Justin Gould is an [AI and Data Engineering leader](https://www.linkedin.com/in/gouldju1) with a proven track record of building and leading high-performing, cross-functional teams to deliver transformational outcomes at scale.  As a Director at [Alvarez & Marsal](https://www.alvarezandmarsal.com/), he architects and operationalizes AI-first solutions for clients across healthcare, energy, automotive, manufacturing, telecommunications, retail, and government, driving measurable value.
 
-<br>
+[Justin brings deep technical fluency](https://github.com/gouldju1/gouldju1) across data engineering, MLOps, NLP, CV, GenAI, and large-scale data architecture.  He has led engineering teams to build production-grade OCR models, deploy real-time defect detection with CNNs, modernize data lakes and warehouses, and create generative AI agents for customer-facing experiences.  He thrives at the intersection of engineering, strategy and execution, and client impact.
 
-Prior to joining Purdue University, I worked within Natural Language Processing (Natural Language to SQL and Question & Answering) and Connected & Autonomous Vehicle Analytics at <a target="_blank" rel="noopener noreferrer"  href="https://corporate.ford.com/home.html?gnav=footer-aboutford">Ford Motor Company</a>. In the final six months of my time at Ford, I was a Product Owner of a suite of NLP tools and models, as well as a connected vehicle data discovery tool-both of which I helped bring into production.
+With experience across Fortune 100s, professional services firms, and public institutions, Justin excels in aligning diverse engineering talent toward a common vision, often mentoring the next generation of AI practitioners along the way.  Whether working with C-level sponsors or hands-on with code, he brings clarity, creativity, and delivery excellence to every engagement.
 
-<br>
+Justin is an active thought leader at the intersection of AI and systems engineering.  He has published work on topics ranging from [energy-efficient computing](https://arxiv.org/abs/2102.04446) to [AI ethics](https://www.alvarezandmarsal.com/insights/ai-ethics-part-one-navigating-pressures-responsible-ai), [AI forensics](https://www.alvarezandmarsal.com/insights/artificial-intelligence-and-machine-learning-model-forensics), [agentic AI](https://www.alvarezandmarsal.com/thought-leadership/demystifying-ai-agents-in-2025-separating-hype-from-reality-and-navigating-market-outlook), and the role of [OCR in the US Defense posture](https://www.alvarezandmarsal.com/insights/leveraging-ocr-and-ai-modern-defense-and-government-applications).
 
-I hold two degrees from <a target="_blank" rel="noopener noreferrer"  href="http://www.msu.edu">Michigan State University</a>. My undergraduate work granted me a <a target="_blank" rel="noopener noreferrer"  href="https://english.msu.edu/about/">B.A. in English Literature</a>, with Honors. In 2018, I graduated with an <a target="_blank" rel="noopener noreferrer"  href="https://broad.msu.edu/masters/business-analytics/">M.S. in Business Analytics</a>.
-
-<br>
-
-In my <a href="https://gouldju1.github.io/gouldju1/pages/hobbies.html">free time</a>, I enjoy reading, traveling, cooking and baking, biking, classical music, hiking, and rock/ice climbing.
+Justin holds an MS in Business Analytics from Michigan State University’s Broad School of Management and earned a BA in English, with Honors, also from Michigan State University.

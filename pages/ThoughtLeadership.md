@@ -4,7 +4,7 @@ title: Thought Leadership
 description: This is a listing of sample projects
 ---
 
-## Selected Thought Leadership
+## Selected Thought Leadership & Articles
 
 | **Title** | **Organization** | **Description** | **Link** |
 |---|---|---|---|

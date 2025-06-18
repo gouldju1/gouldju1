@@ -4,7 +4,7 @@ title: Projects
 description: This is a listing of sample projects
 ---
 
-## Sample Projects
+## Selected Projects
 
 Below are sample AI and engineering projects I have led.
 

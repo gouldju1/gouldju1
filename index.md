@@ -19,7 +19,7 @@ title: Justin A. Gould
 <br>
 
 ## Who am I?
-Justin Gould is an [AI and Data Engineering leader](https://www.linkedin.com/in/gouldju1){:target="_blank"} with a proven track record of building and leading high-performing, cross-functional teams to deliver transformational outcomes at scale.  As a Director at [Alvarez & Marsal](https://www.alvarezandmarsal.com/){:target="_blank"}, he architects and operationalizes AI-first solutions for clients across healthcare, energy, automotive, manufacturing, telecommunications, retail, and government, driving measurable value.
+Justin Gould is an [AI and Data Engineering leader](https://www.linkedin.com/in/gouldju1){:target="_blank"} with a proven track record of building and leading high-performing, cross-functional teams to deliver transformational outcomes at scale.  As a Technical Leader at [Eli Lilly & Company](https://www.lilly.com/){:target="_blank"}, he architects and operationalizes AI-first solutions for clients across healthcare, energy, automotive, manufacturing, telecommunications, retail, and government, driving measurable value.
 
 [Justin brings deep technical fluency](https://github.com/gouldju1/gouldju1){:target="_blank"} across data engineering, MLOps, NLP, CV, GenAI, and large-scale data architecture.  He has led engineering teams to build production-grade OCR models, deploy real-time defect detection with CNNs, modernize data lakes and warehouses, and create generative AI agents for customer-facing experiences.  He thrives at the intersection of engineering, strategy and execution, and client impact.
 

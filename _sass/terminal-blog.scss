@@ -1,0 +1,250 @@
+// ============================================================
+// BLOG — Post layout and listing styles
+// ============================================================
+
+// ---- Blog listing ----
+
+.blog-empty {
+  margin-top: 2rem;
+}
+
+.blog-empty-text {
+  font-family: $font-mono;
+  font-size: 0.88rem;
+  color: $text-muted;
+
+  code {
+    color: $accent-green;
+  }
+}
+
+.post-tag {
+  font-family: $font-mono;
+  font-size: 0.65rem;
+  color: $accent-green;
+  background: $accent-dim;
+  border: 1px solid $border-card;
+  border-radius: 3px;
+  padding: 0.1rem 0.4rem;
+  letter-spacing: 0.05em;
+  text-transform: lowercase;
+  white-space: nowrap;
+}
+
+// ---- Individual post ----
+
+.post-article {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: calc(#{$nav-height} + 3rem) $content-pad-lg 5rem;
+
+  @include small {
+    padding: calc(#{$nav-height} + 2rem) $content-pad-sm 3rem;
+  }
+}
+
+.post-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  font-family: $font-mono;
+  font-size: 0.8rem;
+  color: $text-muted;
+  text-decoration: none;
+  margin-bottom: 2rem;
+  transition: color 0.2s;
+
+  &:hover {
+    color: $accent-green;
+    text-decoration: none;
+  }
+}
+
+.post-header {
+  max-width: 760px;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid $border-subtle;
+}
+
+.post-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.post-date {
+  font-family: $font-mono;
+  font-size: 0.78rem;
+  color: $accent-cyan;
+  letter-spacing: 0.04em;
+}
+
+.post-meta-sep {
+  color: $text-muted;
+  font-family: $font-mono;
+  font-size: 0.75rem;
+}
+
+.post-title {
+  font-family: $font-mono;
+  font-size: clamp(1.6rem, 3.5vw, 2.5rem);
+  font-weight: 700;
+  color: $text-primary;
+  line-height: 1.2;
+  margin: 0 0 0.75rem;
+}
+
+.post-description {
+  font-size: 1rem;
+  color: $text-secondary;
+  line-height: 1.7;
+  margin: 0;
+  font-style: italic;
+}
+
+// ---- Post body content ----
+
+.post-content {
+  max-width: 760px;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $font-mono;
+    color: $text-primary;
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+    color: $accent-green;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid $border-subtle;
+  }
+
+  h3 {
+    font-size: 1rem;
+    color: $accent-cyan;
+  }
+
+  p {
+    font-size: 0.97rem;
+    color: $text-secondary;
+    line-height: 1.8;
+    margin-bottom: 1.25rem;
+  }
+
+  a {
+    color: $accent-cyan;
+    border-bottom: 1px solid rgba(0, 212, 255, 0.25);
+    transition: color 0.2s, border-color 0.2s;
+
+    &:hover {
+      color: $accent-green;
+      border-bottom-color: rgba(0, 255, 136, 0.4);
+      text-decoration: none;
+    }
+  }
+
+  ul, ol {
+    color: $text-secondary;
+    font-size: 0.97rem;
+    line-height: 1.8;
+    padding-left: 1.5rem;
+    margin-bottom: 1.25rem;
+
+    li {
+      margin-bottom: 0.35rem;
+    }
+
+    strong {
+      color: $text-primary;
+      font-weight: 600;
+    }
+  }
+
+  blockquote {
+    margin: 1.5rem 0;
+    padding: 1rem 1.25rem;
+    border-left: 3px solid $accent-green;
+    background: $bg-card;
+    border-radius: 0 4px 4px 0;
+
+    p {
+      margin: 0;
+      color: $text-secondary;
+      font-style: italic;
+    }
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid $border-subtle;
+    margin: 2.5rem 0;
+  }
+
+  img {
+    max-width: 100%;
+    border-radius: 6px;
+    border: 1px solid $border-subtle;
+  }
+}
+
+// ---- Post footer / prev-next nav ----
+
+.post-footer {
+  max-width: 760px;
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid $border-subtle;
+}
+
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.post-nav-link {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: $font-mono;
+  font-size: 0.82rem;
+  color: $text-secondary;
+  text-decoration: none;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid $border-subtle;
+  border-radius: 4px;
+  transition: color 0.2s, border-color 0.2s, background 0.2s;
+  max-width: 45%;
+
+  &:hover {
+    color: $accent-green;
+    border-color: $border-card;
+    background: $accent-dim;
+    text-decoration: none;
+  }
+}
+
+.post-nav-next {
+  margin-left: auto;
+}
+
+.post-nav-label {
+  font-size: 0.68rem;
+  color: $text-muted;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.post-nav-title {
+  color: $text-primary;
+  font-size: 0.8rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

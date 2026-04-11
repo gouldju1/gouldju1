@@ -1,23 +1,40 @@
-// Breakpoints
-$large-breakpoint: 64em !default;
+// ============================================================
+// TERMINAL PALETTE — Design Tokens
+// ============================================================
+
+// Breakpoints (keep names for mixin compatibility)
+$large-breakpoint:  64em !default;
 $medium-breakpoint: 42em !default;
 
-// Headers
-$header-heading-color: #fff !default;
-$header-bg-color: #159957 !default;
-$header-bg-color-secondary: #155799 !default;
+// Background layers
+$bg-primary:      #0a0a0a;
+$bg-secondary:    #111111;
+$bg-card:         #141414;
+$bg-card-hover:   #1a1a1a;
+
+// Accent colors
+$accent-green:    #00ff88;
+$accent-cyan:     #00d4ff;
+$accent-dim:      rgba(0, 255, 136, 0.12);
+$accent-glow:     rgba(0, 255, 136, 0.45);
 
 // Text
-$section-headings-color: #159957 !default;
-$body-text-color: #606c71 !default;
-$body-link-color: #1e6bb8 !default;
-$blockquote-text-color: #819198 !default;
-
-// Code
-$code-bg-color: #f3f6fa !default;
-$code-text-color: #567482 !default;
+$text-primary:    #e8e8e8;
+$text-secondary:  #888888;
+$text-muted:      #4a4a4a;
+$text-mono:       #00ff88;
 
 // Borders
-$border-color: #dce6f0 !default;
-$table-border-color: #e9ebec !default;
-$hr-border-color: #eff0f1 !default;
+$border-subtle:   rgba(255, 255, 255, 0.06);
+$border-card:     rgba(0, 255, 136, 0.14);
+$border-glow:     rgba(0, 255, 136, 0.55);
+
+// Layout
+$nav-height:      60px;
+$max-width:       1120px;
+$content-pad-lg:  3rem;
+$content-pad-sm:  1.25rem;
+
+// Fonts
+$font-mono:  'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+$font-body:  'Inter', system-ui, -apple-system, sans-serif;

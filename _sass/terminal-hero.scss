@@ -1,0 +1,287 @@
+// ============================================================
+// HERO — Full-viewport intro section
+// ============================================================
+
+.hero {
+  min-height: calc(100vh - #{$nav-height});
+  display: flex;
+  align-items: center;
+  padding: calc(#{$nav-height} + 4rem) $content-pad-lg 4rem;
+  max-width: $max-width;
+  margin: 0 auto;
+
+  @include medium {
+    padding: calc(#{$nav-height} + 3rem) $content-pad-lg 3rem;
+  }
+
+  @include small {
+    padding: calc(#{$nav-height} + 2.5rem) $content-pad-sm 2.5rem;
+    min-height: auto;
+  }
+}
+
+.hero-inner {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 3.5rem;
+  align-items: center;
+  width: 100%;
+
+  @include medium {
+    gap: 2.5rem;
+  }
+
+  @include small {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    text-align: center;
+  }
+}
+
+.hero-image {
+  flex-shrink: 0;
+}
+
+.profile-img {
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid $border-card;
+  box-shadow:
+    0 0 0 6px rgba(0, 255, 136, 0.05),
+    0 0 40px rgba(0, 255, 136, 0.12),
+    0 12px 40px rgba(0, 0, 0, 0.6);
+  display: block;
+
+  @include small {
+    margin: 0 auto;
+    width: 140px;
+    height: 140px;
+  }
+}
+
+.hero-text {
+  min-width: 0;
+}
+
+.hero-prompt {
+  font-family: $font-mono;
+  font-size: 0.82rem;
+  color: $text-muted;
+  margin-bottom: 0.6rem;
+  letter-spacing: 0.04em;
+
+  .prompt-symbol {
+    margin-right: 0.4em;
+  }
+}
+
+.hero-name {
+  font-family: $font-mono;
+  font-size: clamp(2rem, 4.5vw, 3.25rem);
+  font-weight: 700;
+  color: $text-primary;
+  margin: 0 0 0.6rem;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+.hero-title-wrap {
+  font-family: $font-mono;
+  font-size: clamp(0.82rem, 1.4vw, 1rem);
+  color: $accent-green;
+  min-height: 1.7em;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+
+  @include small {
+    justify-content: center;
+  }
+}
+
+#typed-tagline {
+  // Cursor is appended via JS, no CSS pseudo needed
+}
+
+.typed-cursor {
+  display: inline-block;
+  width: 2px;
+  height: 1.1em;
+  background: $accent-green;
+  margin-left: 3px;
+  vertical-align: middle;
+  animation: blink 1s step-end infinite;
+}
+
+.hero-contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.6rem;
+  align-items: center;
+  font-family: $font-mono;
+  font-size: 0.78rem;
+
+  @include small {
+    justify-content: center;
+  }
+}
+
+.contact-item {
+  color: $text-secondary;
+  text-decoration: none;
+  transition: color 0.2s;
+  white-space: nowrap;
+
+  &:hover {
+    color: $accent-cyan;
+    text-decoration: none;
+  }
+
+  &[href^="mailto"] {
+    color: $accent-cyan;
+  }
+}
+
+.contact-sep {
+  color: $text-muted;
+  user-select: none;
+
+  @include small {
+    display: none;
+  }
+}
+
+// Stats bar
+.stats-bar {
+  background: $bg-secondary;
+  border-top: 1px solid $border-subtle;
+  border-bottom: 1px solid $border-subtle;
+  padding: 2rem $content-pad-lg;
+
+  @include small {
+    padding: 1.5rem $content-pad-sm;
+  }
+}
+
+.stats-inner {
+  max-width: $max-width;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  text-align: center;
+
+  @include medium {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+
+  @include small {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+  }
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.stat-num {
+  font-family: $font-mono;
+  font-size: clamp(1.4rem, 2.5vw, 2rem);
+  font-weight: 700;
+  color: $accent-green;
+  line-height: 1;
+}
+
+.stat-label {
+  font-family: $font-body;
+  font-size: 0.75rem;
+  color: $text-muted;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+// Bio section
+.bio-section {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 3.5rem $content-pad-lg 1rem;
+
+  @include small {
+    padding: 2.5rem $content-pad-sm 1rem;
+  }
+}
+
+.bio-content {
+  max-width: 780px;
+
+  p {
+    color: $text-secondary;
+    font-size: 0.97rem;
+    line-height: 1.75;
+    margin-bottom: 1.1rem;
+
+    a {
+      color: $accent-cyan;
+      border-bottom: 1px solid rgba(0, 212, 255, 0.25);
+
+      &:hover {
+        color: $accent-green;
+        border-bottom-color: rgba(0, 255, 136, 0.4);
+      }
+    }
+  }
+}
+
+// Education section
+.edu-section {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 1rem $content-pad-lg 4rem;
+
+  @include small {
+    padding: 1rem $content-pad-sm 3rem;
+  }
+}
+
+.edu-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.edu-card {
+  background: $bg-card;
+  border: 1px solid $border-card;
+  border-radius: 6px;
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  transition: border-color 0.25s, box-shadow 0.25s;
+
+  &:hover {
+    border-color: $border-glow;
+    box-shadow: 0 0 16px $accent-dim;
+  }
+}
+
+.edu-degree {
+  font-family: $font-mono;
+  font-size: 0.9rem;
+  color: $text-primary;
+  font-weight: 600;
+}
+
+.edu-school {
+  font-size: 0.82rem;
+  color: $text-muted;
+  font-family: $font-body;
+}

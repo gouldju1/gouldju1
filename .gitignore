@@ -1,5 +1,7 @@
 _site
 .sass-cache
+vendor/bundle
+.bundle
 Gemfile.lock
 *.gem
 *.aux

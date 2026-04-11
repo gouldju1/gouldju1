@@ -1,0 +1,168 @@
+// ============================================================
+// CARDS — Project & Thought Leadership card grids
+// ============================================================
+
+.cards-section {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 3.5rem $content-pad-lg 4rem;
+
+  @include small {
+    padding: 2.5rem $content-pad-sm 3rem;
+  }
+}
+
+// Grid layout
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1.25rem;
+  margin-top: 0.5rem;
+
+  @include small {
+    grid-template-columns: 1fr;
+  }
+}
+
+.card-grid--tl {
+  grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+}
+
+// Base card
+.card {
+  background: $bg-card;
+  border: 1px solid $border-card;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    border-color: $border-glow;
+    box-shadow:
+      0 0 24px rgba(0, 255, 136, 0.1),
+      0 8px 32px rgba(0, 0, 0, 0.45);
+  }
+}
+
+// Card header
+.card-header {
+  padding: 0.9rem 1.25rem 0.75rem;
+  border-bottom: 1px solid $border-subtle;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.card-industry,
+.card-org {
+  font-family: $font-mono;
+  font-size: 0.7rem;
+  color: $accent-cyan;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.card-accent-bar {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(to right, rgba(0, 212, 255, 0.2), transparent);
+  min-width: 0;
+}
+
+// Card body
+.card-body {
+  padding: 1.1rem 1.25rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.card-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.field-label {
+  font-family: $font-mono;
+  font-size: 0.67rem;
+  color: $text-muted;
+  letter-spacing: 0.06em;
+  text-transform: lowercase;
+}
+
+.card-field p,
+.card-field-text {
+  font-size: 0.85rem;
+  color: $text-secondary;
+  line-height: 1.6;
+  margin: 0;
+}
+
+// Thought leadership card title
+.card-title {
+  font-family: $font-mono;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: $text-primary;
+  margin: 0 0 0.35rem;
+  line-height: 1.35;
+}
+
+.card-desc {
+  font-size: 0.83rem;
+  color: $text-secondary;
+  line-height: 1.6;
+  margin: 0;
+  // Clamp to 4 lines for consistent card height
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+// Card footer
+.card-footer {
+  padding: 0.8rem 1.25rem 1rem;
+  border-top: 1px solid $border-subtle;
+  flex-shrink: 0;
+}
+
+.card-outcome {
+  font-family: $font-mono;
+  font-size: 0.76rem;
+  color: $accent-green;
+  line-height: 1.5;
+}
+
+.card-link {
+  font-family: $font-mono;
+  font-size: 0.82rem;
+  color: $accent-cyan;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  transition: color 0.2s, gap 0.2s;
+
+  .prompt-symbol {
+    color: inherit;
+    transition: transform 0.2s;
+  }
+
+  &:hover {
+    color: $accent-green;
+    text-decoration: none;
+
+    .prompt-symbol {
+      transform: translateX(3px);
+    }
+  }
+}

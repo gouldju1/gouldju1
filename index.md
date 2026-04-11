@@ -7,7 +7,7 @@ description: AI & Data Engineering Leader | Technical Leader at Eli Lilly & Comp
 <section class="hero" aria-label="Introduction">
   <div class="hero-inner">
     <div class="hero-image">
-      <img src="{{ '/images/Ghibli.png' | relative_url }}" alt="Justin Gould" class="profile-img">
+      <img src="{{ '/images/me.jpg' | relative_url }}" alt="Justin Gould" class="profile-img">
     </div>
     <div class="hero-text">
       <p class="hero-prompt"><span class="prompt-symbol">$</span> whoami</p>

@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Justin A. Gould
+title: Justin Gould
 description: AI & Data Engineering Leader | Technical Leader at Eli Lilly & Company
 ---
 
 <section class="hero" aria-label="Introduction">
   <div class="hero-inner">
     <div class="hero-image">
-      <img src="{{ '/images/Ghibli.png' | relative_url }}" alt="Justin A. Gould" class="profile-img">
+      <img src="{{ '/images/Ghibli.png' | relative_url }}" alt="Justin Gould" class="profile-img">
     </div>
     <div class="hero-text">
       <p class="hero-prompt"><span class="prompt-symbol">$</span> whoami</p>
-      <h1 class="hero-name">Justin A. Gould</h1>
+      <h1 class="hero-name">Justin Gould</h1>
       <div class="hero-title-wrap">
         <span id="typed-tagline"></span><span class="typed-cursor" aria-hidden="true"></span>
       </div>
@@ -53,7 +53,7 @@ description: AI & Data Engineering Leader | Technical Leader at Eli Lilly & Comp
 
 <section class="bio-section reveal-section" aria-label="About">
   <div class="section-header">
-    <span class="prompt-symbol">//</span> about.md
+    <span class="prompt-symbol">//</span> About
   </div>
   <div class="bio-content">
     <p>Justin Gould is an <a href="https://www.linkedin.com/in/gouldju1" target="_blank" rel="noopener">AI and Data Engineering leader</a> with a proven track record of building and leading high-performing, cross-functional teams to deliver transformational outcomes at scale. As a Technical Leader at <a href="https://www.lilly.com/" target="_blank" rel="noopener">Eli Lilly &amp; Company</a>, he architects and operationalizes AI-first solutions for clients across healthcare, energy, automotive, manufacturing, telecommunications, retail, and government, driving measurable value.</p>
@@ -65,7 +65,7 @@ description: AI & Data Engineering Leader | Technical Leader at Eli Lilly & Comp
 
 <section class="edu-section reveal-section" aria-label="Education">
   <div class="section-header">
-    <span class="prompt-symbol">//</span> education
+    <span class="prompt-symbol">//</span> Education
   </div>
   <div class="edu-grid">
     <div class="edu-card reveal-card" style="--card-index:0">

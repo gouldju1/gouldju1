@@ -1,5 +1,5 @@
 /**
- * terminal.js — Justin A. Gould portfolio
+ * terminal.js — Justin Gould portfolio
  * Typed text · Scroll-reveal · Hamburger nav · Smooth scroll · Active nav
  */
 
@@ -11,7 +11,7 @@
   // ============================================================
   var taglines = [
     'AI & Data Engineering Leader',
-    'Technical Leader @ Eli Lilly',
+    'Technical Leader @ Eli Lilly & Company',
     'MLOps · GenAI · NLP · Computer Vision',
     'Building AI that delivers at scale'
   ];

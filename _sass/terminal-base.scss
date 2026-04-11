@@ -169,10 +169,10 @@ pre {
 .page-wrapper {
   max-width: $max-width;
   margin: 0 auto;
-  padding: $nav-height + 3rem $content-pad-lg 4rem;
+  padding: calc(#{$nav-height} + 3rem) $content-pad-lg 4rem;
 
   @include small {
-    padding: $nav-height + 2rem $content-pad-sm 3rem;
+    padding: calc(#{$nav-height} + 2rem) $content-pad-sm 3rem;
   }
 }
 

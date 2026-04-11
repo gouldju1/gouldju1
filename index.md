@@ -33,20 +33,20 @@ description: AI & Data Engineering Leader | Technical Leader at Eli Lilly & Comp
 <section class="stats-bar reveal-section" aria-label="Key stats">
   <div class="stats-inner">
     <div class="stat-item">
-      <span class="stat-num">15+</span>
-      <span class="stat-label">AI Projects Led</span>
+      <span class="stat-num">10+</span>
+      <span class="stat-label">Years Experience</span>
     </div>
     <div class="stat-item">
       <span class="stat-num">$60M+</span>
       <span class="stat-label">Value Delivered</span>
     </div>
     <div class="stat-item">
-      <span class="stat-num">8</span>
+      <span class="stat-num">8+</span>
       <span class="stat-label">Publications</span>
     </div>
     <div class="stat-item">
-      <span class="stat-num">90–98%</span>
-      <span class="stat-label">Model Accuracy Range</span>
+      <span class="stat-num">15+</span>
+      <span class="stat-label">AI & Engineering Projects Led</span>
     </div>
   </div>
 </section>
@@ -76,5 +76,29 @@ description: AI & Data Engineering Leader | Technical Leader at Eli Lilly & Comp
       <span class="edu-degree">BA English, with Honors</span>
       <span class="edu-school">Michigan State University</span>
     </div>
+  </div>
+</section>
+
+<section class="cert-section reveal-section" aria-label="Certifications">
+  <div class="section-header">
+    <span class="prompt-symbol">//</span> Certifications
+  </div>
+  <div class="cert-grid">
+    <a class="cert-card reveal-card" style="--card-index:0" href="https://learn.microsoft.com/en-us/users/JustinGould-2903/credentials/8A0FFABF0DBDF17B" target="_blank" rel="noopener" aria-label="Microsoft Certified: Azure AI Fundamentals — verify credential">
+      <div class="cert-logo" aria-hidden="true">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 23" width="28" height="28">
+          <path fill="#f35325" d="M0 0h11v11H0z"/>
+          <path fill="#81bc06" d="M12 0h11v11H12z"/>
+          <path fill="#05a6f0" d="M0 12h11v11H0z"/>
+          <path fill="#ffba08" d="M12 12h11v11H12z"/>
+        </svg>
+      </div>
+      <div class="cert-body">
+        <span class="cert-name">Microsoft Certified</span>
+        <span class="cert-title">Azure AI Fundamentals</span>
+        <span class="cert-id">ID: 8A0FFABF0DBDF17B</span>
+      </div>
+      <!-- <div class="cert-verify" aria-hidden="true">verify &rarr;</div> -->
+    </a>
   </div>
 </section>

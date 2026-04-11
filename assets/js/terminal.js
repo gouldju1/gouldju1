@@ -12,8 +12,7 @@
   var taglines = [
     'AI & Data Engineering Leader',
     'Technical Leader @ Eli Lilly & Company',
-    'MLOps · GenAI · NLP · Computer Vision',
-    'Building AI that delivers at scale'
+    'Architecture · Agents · Cloud · Computer Vision · NLP · MLOps · GenAI',
   ];
 
   var tlIndex   = 0;
@@ -84,6 +83,11 @@
 
     // Education cards (outside .card-grid)
     document.querySelectorAll('.edu-card.reveal-card').forEach(function (el) {
+      observer.observe(el);
+    });
+
+    // Any remaining reveal-cards not inside .card-grid (e.g. cert cards)
+    document.querySelectorAll('.reveal-card:not(.card-grid .reveal-card):not(.edu-card)').forEach(function (el) {
       observer.observe(el);
     });
   }

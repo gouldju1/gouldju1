@@ -189,3 +189,63 @@ pre {
     color: $accent-green;
   }
 }
+
+// Footer
+.site-footer {
+  margin-top: 4rem;
+  border-top: 1px solid $border-subtle;
+  background: $bg-secondary;
+}
+
+.footer-inner {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 1.5rem $content-pad-lg;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+
+  @include small {
+    padding: 1.25rem $content-pad-sm;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+}
+
+.footer-prompt {
+  font-family: $font-mono;
+  font-size: 0.8rem;
+  color: $text-muted;
+  letter-spacing: 0.02em;
+
+  .prompt-symbol {
+    color: $accent-green;
+    margin-right: 0.3em;
+  }
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  a {
+    font-family: $font-mono;
+    font-size: 0.75rem;
+    color: $text-secondary;
+    text-decoration: none;
+    padding: 0.3rem 0.65rem;
+    border: 1px solid $border-subtle;
+    border-radius: 3px;
+    transition: color 0.2s, border-color 0.2s, background 0.2s;
+
+    &:hover {
+      color: $accent-green;
+      border-color: $border-card;
+      background: $accent-dim;
+    }
+  }
+}

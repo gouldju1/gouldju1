@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<article class="post-article">
+
+  <div class="post-header reveal-section">
+    <a href="{{ '/pages/blog' | relative_url }}" class="post-back">
+      <span class="prompt-symbol">&larr;</span> cd ../blog
+    </a>
+    <div class="post-meta">
+      <span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span>
+      {% if page.tags and page.tags.size > 0 %}
+        <span class="post-meta-sep">//</span>
+        {% for tag in page.tags %}
+          <span class="post-tag">{{ tag }}</span>
+        {% endfor %}
+      {% endif %}
+    </div>
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </div>
+
+  <div class="post-content reveal-section">
+    {{ content }}
+  </div>
+
+  <div class="post-footer reveal-section">
+    <div class="post-nav">
+      {% if page.previous %}
+        <a href="{{ page.previous.url | relative_url }}" class="post-nav-link post-nav-prev">
+          <span class="prompt-symbol">&larr;</span>
+          <span class="post-nav-label">previous</span>
+          <span class="post-nav-title">{{ page.previous.title }}</span>
+        </a>
+      {% endif %}
+      {% if page.next %}
+        <a href="{{ page.next.url | relative_url }}" class="post-nav-link post-nav-next">
+          <span class="post-nav-label">next</span>
+          <span class="post-nav-title">{{ page.next.title }}</span>
+          <span class="prompt-symbol">&rarr;</span>
+        </a>
+      {% endif %}
+    </div>
+  </div>
+
+</article>

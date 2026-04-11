@@ -18,17 +18,18 @@
 
   <nav class="site-nav" role="navigation" aria-label="Main navigation">
     <div class="nav-inner">
-      <a class="nav-brand" href="{{ site.github.home_url }}">
+      <a class="nav-brand" href="{{ '/' | relative_url }}">
         <span class="prompt-symbol">&gt;</span><span class="brand-name">Justin Gould</span><span class="cursor-blink">_</span>
       </a>
       <button class="nav-toggle" aria-label="Toggle navigation menu" aria-expanded="false" aria-controls="nav-links">
         <span></span><span></span><span></span>
       </button>
       <ul class="nav-links" id="nav-links" role="list">
-        <li><a href="{{ site.github.home_url }}" class="nav-link">Home</a></li>
-        <li><a href="{{ site.github.projects_url }}" class="nav-link">Projects</a></li>
-        <li><a href="{{ site.github.papers_url }}" class="nav-link">Thought Leadership</a></li>
-        <li><a href="{{ site.github.cv_url }}" class="nav-link nav-cta" target="_blank" rel="noopener">Resume</a></li>
+        <li><a href="{{ '/' | relative_url }}" class="nav-link">Home</a></li>
+        <li><a href="{{ '/pages/Projects' | relative_url }}" class="nav-link">Projects</a></li>
+        <li><a href="{{ '/pages/ThoughtLeadership' | relative_url }}" class="nav-link">Thought Leadership</a></li>
+        <!-- <li><a href="{{ '/pages/blog' | relative_url }}" class="nav-link">Blog</a></li> -->
+        <li><a href="{{ '/CV/Gould_Resume.pdf' | relative_url }}" class="nav-link nav-cta" target="_blank" rel="noopener">Resume</a></li>
       </ul>
     </div>
   </nav>
@@ -39,11 +40,11 @@
 
   <footer class="site-footer" role="contentinfo">
     <div class="footer-inner">
-      <span class="footer-prompt"><span class="prompt-symbol">//</span> gouldju1 &mdash; Indianapolis, IN</span>
+      <span class="footer-prompt"><span class="prompt-symbol">//</span> Justin Gould &mdash; Indianapolis, IN</span>
       <div class="footer-links">
-        <a href="mailto:gouldju1@gmail.com">email</a>
-        <a href="https://github.com/gouldju1" target="_blank" rel="noopener">github</a>
-        <a href="https://www.linkedin.com/in/gouldju1/" target="_blank" rel="noopener">linkedin</a>
+        <a href="mailto:gouldju1@gmail.com">Email</a>
+        <a href="https://github.com/gouldju1" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://www.linkedin.com/in/gouldju1/" target="_blank" rel="noopener">LinkedIn</a>
       </div>
     </div>
   </footer>

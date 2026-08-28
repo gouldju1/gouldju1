@@ -1,1 +1,3 @@
+<img src="./profile-assets/top.svg" width="100%" height="20" align="left"><a href="https://linkedin.com/in/gouldju1"><img src="./profile-assets/link-linkedin.svg" alt="linkedin" width="100" height="18" align="left"></a><img src="data:null;," width="100%" height="0" align="left" alt=""><a href="https://gouldju1.github.io/gouldju1/"><img src="./profile-assets/link-website.svg" alt="website" width="100" height="18" align="left"></a><img src="data:null;," width="100%" height="0" align="left" alt="">
 
+<img src="./profile-assets/main.svg" alt="Justin Gould — technical leader, ML engineering at Eli Lilly and Company." width="100%" align="left">

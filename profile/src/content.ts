@@ -1,7 +1,7 @@
 // Content configuration — edit these to update your README
 
-export const BIO = `ML engineer building and scaling machine learning systems.
-leads technical strategy for ML engineering at eli lilly.
+export const BIO = `ML engineer building and scaling systems.
+leading technical strategy for manufacturing ML engineering at eli lilly.
 enjoys turning research into reliable, production-grade pipelines.`;
 
 export const LINKS = [
